@@ -1,0 +1,133 @@
+body {
+    background-color: #F0F2F5 !important;
+}
+
+a {
+    text-decoration: none;
+}
+.signupsuccess {
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.logo {
+    color: #1877f2;
+    font-weight: bold;
+}
+.Facebook {
+    font-size: 27px;
+    line-height: 28px;
+    width: auto;
+    font-weight: 400;
+}
+.btn-primary:hover {
+    background-color: #1b64c1;
+}
+.container img {
+    width: 18rem;
+    height: 6rem;
+    margin-left: -38px;
+}
+.container p {
+    margin-top: 0.5rem;
+    FONT-FAMILY:SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    FONT-SIZE: 28px;
+    LINE-HEIGHT : 32px;
+}
+
+
+#left{
+    margin-top: 11rem;
+    margin-left: 9rem;
+    width: 40rem;
+}
+
+
+/*#loginform{*/
+/*    float: right;*/
+/*    margin-top: -15rem;*/
+/*    margin-right:-25rem;*/
+/*    height: 348px;*/
+/*    background-color: red;*/
+/*}*/
+
+.card {
+    float: right;
+    width: 25rem;
+    margin-right: 15rem;
+    margin-top: -15rem;
+    height: 21rem;
+}
+.submitbtn{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 100%;
+}
+.createAccountBtn {
+    background-color: #36A420 !important;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    color: white;
+    padding: 0 16px;
+    width: 60%;
+    height: 13%;
+    margin-top: 1rem;
+    margin-left:5%;
+}
+.signup{
+    background-color: #36A420 !important;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    padding: 0 16px;
+    width: 30%;
+    height: 28%;
+    margin-top: 1rem;
+    margin-left:5%;
+}
+
+.dob{
+    display: flex;
+    justify-content: right;
+    margin-left: 2rem;
+    width: 20%;
+}
+#terms{
+    font-size: 10px;
+}
+
+#errorMessage{
+    color:red;
+    text-align: center;
+}
+#namebox {
+    width: 200px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    background: white;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.container img {
+    width: 18rem;
+    height: 6rem;
+    margin-left: -38px;
+}
+.container p {
+    margin-top: 0.5rem;
+    FONT-FAMILY:SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    FONT-SIZE: 28px;
+    LINE-HEIGHT : 32px;
+}
